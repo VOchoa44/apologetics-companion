@@ -1,0 +1,25 @@
+:root {
+  font-family: Arial, sans-serif;
+  color: #e4e4e5;
+  background-color: #36363b;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 42px;
+  margin: 0;
+}
+
+p {
+  color: #e4e4e5;
+  font-size: 18px;
+  line-height: 1.6;
+}
